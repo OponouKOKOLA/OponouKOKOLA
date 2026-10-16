@@ -1,16 +1,19 @@
-## Hi there 👋
+# Embedded Systems | STM32 | ARM Cortex-M |ESP32 |RISC-V & Xtensa
 
-<!--
-**OponouKOKOLA/OponouKOKOLA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **M1 Électronique : Université de Rennes**
 
-Here are some ideas to get you started:
+Je développe mes compétences en systèmes embarqués,
+programmation bas niveau et développement firmware.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies
+
+- **Microcontrôleurs :** STM32, ESP32, Arduino
+- **Programmation :** C, C++, Python
+- **Architecture :** ARM Cortex-M, RISC-V
+- **RTOS :** FreeRTOS
+- **Communications :** UART, I²C, SPI, CAN, LoRaWAN
+
+## 🚀 Projets
+
+Mes dépôts présentent mes exercices pratiques, mes tests
+de communication et mes travaux de développement firmware.
